@@ -108,4 +108,4 @@ const RegistrationPolicy = () => {
 
 
 // ==================== EXPORT ALL ====================
-export { PrivacyPolicy, TermsAndConditions, RegistrationPolicy, Contact };
+export default PrivacyPolicy;
