@@ -1,51 +1,51 @@
-import React from "react";
-
+// ==================== TERMS & CONDITIONS ====================
 const TermsAndConditions = () => {
   return (
     <div className="container py-5">
-      <h2 className="mb-4 text-center">Terms & Conditions – VidyaEnroll Admission App</h2>
-
+      <h2 className="mb-4 text-center">Terms & Conditions – Brando Vendor</h2>
       <p>
-        By using the VidyaEnroll App to submit an admission application, you agree to the following terms and conditions.
+        By registering and using the Brando Vendor App as a hostel owner, you agree to the following terms and conditions.
       </p>
 
-      <h5 className="mt-4">1. Application Accuracy</h5>
+      <h5 className="mt-4">1. Registration & Account</h5>
       <ul>
-        <li>All information provided (name, mobile, email, Aadhaar, PAN, stream, etc.) must be accurate, complete, and truthful.</li>
-        <li>Submission of false, forged, or misleading documents may result in immediate rejection of your application and potential blacklisting.</li>
+        <li>You must provide accurate, current, and complete information during registration (hostel name, mobile, email, hostel image).</li>
+        <li>You are responsible for maintaining the confidentiality of your login credentials.</li>
+        <li>One mobile number and email can be used for one vendor account unless otherwise approved.</li>
       </ul>
 
-      <h5 className="mt-4">2. Document Requirements</h5>
+      <h5 className="mt-4">2. Hostel Information & Images</h5>
       <ul>
-        <li>Aadhaar is mandatory for identity verification.</li>
-        <li>PAN may be required for scholarship, fee waiver, or tax-related processes.</li>
-        <li>Providing a UPI ID is optional and used only for payment/refund purposes.</li>
+        <li>You must have the legal right to represent and manage the hostel you register.</li>
+        <li>Uploaded hostel images must be真实的 (real), not misleading, and not infringe on any copyright or privacy rights.</li>
+        <li>Brando Vendor reserves the right to remove any inappropriate or false images.</li>
       </ul>
 
-      <h5 className="mt-4">3. Data Submission</h5>
+      <h5 className="mt-4">3. User/Resident Management</h5>
       <p>
-        By submitting your application, you authorize VidyaEnroll to share your data with the selected college(s) or university(ies) for admission processing.
+        You are responsible for the accuracy of any resident/student data you enter into the app. You must comply with all applicable privacy laws when managing user data through Brando Vendor.
       </p>
 
-      <h5 className="mt-4">4. Account Responsibility</h5>
+      <h5 className="mt-4">4. Acceptable Use</h5>
       <ul>
-        <li>You are responsible for ensuring your mobile number and email are active for communication.</li>
-        <li>VidyaEnroll is not liable for missed communications due to incorrect contact details.</li>
+        <li>Do not use the app for illegal activities, harassment, or spamming.</li>
+        <li>Do not attempt to hack, reverse-engineer, or disrupt the platform.</li>
+        <li>Do not upload offensive, obscene, or harmful content.</li>
       </ul>
 
-      <h5 className="mt-4">5. Application Fees & Payments</h5>
+      <h5 className="mt-4">5. Account Suspension/Termination</h5>
       <p>
-        If applicable, application or admission fees may be collected via UPI or other methods. You must ensure your UPI ID (if used) is valid and linked to your bank account. VidyaEnroll is not responsible for transaction failures due to user-side errors.
+        Brando Vendor reserves the right to suspend or terminate your account if you violate these terms, provide false information, or misuse the platform.
       </p>
 
-      <h5 className="mt-4">6. Termination & Rejection</h5>
+      <h5 className="mt-4">6. Limitation of Liability</h5>
       <p>
-        VidyaEnroll or the receiving institution reserves the right to reject or cancel your application at any stage if discrepancies are found or terms are violated.
+        Brando Vendor provides the app "as is" and is not liable for any indirect, incidental, or consequential damages arising from your use of the platform. We do not guarantee uninterrupted service.
       </p>
 
       <h5 className="mt-4">7. Acceptance of Terms</h5>
       <p>
-        Your submission of an application through the VidyaEnroll App confirms that you have read, understood, and agreed to these Terms & Conditions.
+        By registering and using Brando Vendor, you confirm that you have read, understood, and agreed to these Terms & Conditions.
       </p>
     </div>
   );
